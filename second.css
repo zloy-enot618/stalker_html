@@ -1,0 +1,22 @@
+body {
+    background-color: green
+}
+
+a {
+    margin-left: 30px;
+    font-size:30px
+}
+
+h1 {
+    margin-left: 100px;
+    font-size: 45px
+}
+
+input {
+    height: 33px;
+    width: 300px
+}
+
+h {
+    font-size: 33px
+}
